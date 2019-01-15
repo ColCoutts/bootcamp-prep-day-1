@@ -10,7 +10,7 @@ here's how you push to github:
 ```
 ## Here's something you didn't **know**
 
-_push_ to GitHUB
+_push_ to `GitHUB`
 * add
 * commit -m
 * push
